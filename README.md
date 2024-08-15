@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @PavanVenkataNagaManoj17
+- 👋 Hi, I’m Pavan Venkata Naga Manoj 
 - 👀 I’m interested in software development and solving real world software problems
 - 🌱 I’m currently learning full stack development
 - 💞️ I’m looking to collaborate on projects
